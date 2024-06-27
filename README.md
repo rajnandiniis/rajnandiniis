@@ -1,10 +1,10 @@
-<banner><img src="image.png" alt="web developer"></banner>
+<banner><img src="image.png" alt="Full-Stack Web Developer and AI/ML Engineer"></banner>
 <h1 align="center">Hi 👋, I'm Rajnandini Shinde</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
  <img   align ="right"  alt ="coding"  width= "400" src="//dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media"/>
 
-- 🔭 I’m currently working on **food delivery app**
+- 🔭 I’m currently working on **Comprehensive AI-Powered Menstrual Health and Pain Management System**
 
 - 🌱 I’m currently learning **tailwind,DSA.**
 
